@@ -10,6 +10,9 @@ You are welcome to make pull requests to complete rappid-bidder with DSP specifi
 
 Our resources are limited to maintaining  vanilla-rtb stack itself  here https://github.com/venediktov/vanilla-rtb
 
+
+https://github.com/donovan780/rapid-bidder/
+
 Even though we periodically update rapid-bidder for now it's not our main priority.
 
 The examples how vanilla-rtb stack can be utilized are here https://github.com/venediktov/vanilla-rtb/tree/master/examples
